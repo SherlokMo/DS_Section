@@ -6,4 +6,8 @@
     <StartupObject>Datastructure_task.Stack.pop</StartupObject>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Queue\" />
+  </ItemGroup>
+
 </Project>
